@@ -6,9 +6,6 @@
 
 <p align="center">Systems Engineering Student at Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca</p>
 
-<p align="center">
-  <a href="https://mireni.vercel.app" target="_blank">🌐 Visit my portfolio</a>
-</p>
 
 ###
 
