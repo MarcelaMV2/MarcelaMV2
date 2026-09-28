@@ -24,46 +24,33 @@ I also work as a **data analyst**, support technology education as a teaching as
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/Angular-A85560?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/TypeScript-8B5468?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-B07F6E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-A85560?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-8B5468?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Bootstrap-B07F6E?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/React-A85560?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Vue.js-8B5468?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Svelte-B07F6E?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-A85560?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-8B5468?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-B07F6E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-A85560?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-8B5468?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-B07F6E?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/React-A85560?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Vue.js-8B5468?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/Svelte-B07F6E?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+</div>
 
 ### Backend
 
-<img src="https://img.shields.io/badge/NestJS-A85560?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Node.js-8B5468?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PHP-B07F6E?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-A85560?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/Java-8B5468?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-B07F6E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Rust-A85560?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/C%2B%2B-8B5468?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<div align="center">
+  <img src="https://img.shields.io/badge/NestJS-A85560?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Node.js-8B5468?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/PHP-B07F6E?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-A85560?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Java-8B5468?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-B07F6E?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Rust-A85560?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/C%2B%2B-8B5468?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</div>
 
 ### Databases
 
-<img src="https://img.shields.io/badge/MySQL-B07F6E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-A85560?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-B07F6E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-A85560?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
 
 ### DevOps and version control
 
-<img src="https://img.shields.io/badge/Git-8B5468?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-B07F6E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vercel-A85560?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Nginx-8B5468?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-8B5468?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-B07F6E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Vercel-A85560?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Nginx-8B5468?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</div>
 
 ### Design and productivity
 
-<img src="https://img.shields.io/badge/Figma-B07F6E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Canva-A85560?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Blender-8B5468?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-<img src="https://img.shields.io/badge/Notion-B07F6E?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-<img src="https://img.shields.io/badge/Trello-A85560?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-B07F6E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Canva-A85560?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/Blender-8B5468?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /> <img src="https://img.shields.io/badge/Notion-B07F6E?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /> <img src="https://img.shields.io/badge/Trello-A85560?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</div>
 
 <br>
 
@@ -72,10 +59,9 @@ I also work as a **data analyst**, support technology education as a teaching as
 
 I participate in technology communities that encourage learning, collaboration and professional growth. I am officially a **Women Techmakers Ambassador** and participate in **GDG Sucre**, **Women Techmakers Sucre**, **AWS Sucre** and **Microsoft Volunteers Sucre**.
 
-<img src="https://img.shields.io/badge/Women%20Techmakers-Ambassador-A85560?style=for-the-badge" alt="Women Techmakers Ambassador" />
-<img src="https://img.shields.io/badge/GDG-Sucre%20%C2%B7%20Web-8B5468?style=for-the-badge" alt="GDG Sucre" />
-<img src="https://img.shields.io/badge/AWS-Sucre-B07F6E?style=for-the-badge" alt="AWS Sucre" />
-<img src="https://img.shields.io/badge/Microsoft-Volunteers%20Sucre-A85560?style=for-the-badge" alt="Microsoft Volunteers Sucre" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Women%20Techmakers-Ambassador-A85560?style=for-the-badge" alt="Women Techmakers Ambassador" /> <img src="https://img.shields.io/badge/GDG-Sucre%20%C2%B7%20Web-8B5468?style=for-the-badge" alt="GDG Sucre" /> <img src="https://img.shields.io/badge/AWS-Sucre-B07F6E?style=for-the-badge" alt="AWS Sucre" /> <img src="https://img.shields.io/badge/Microsoft-Volunteers%20Sucre-A85560?style=for-the-badge" alt="Microsoft Volunteers Sucre" />
+</div>
 
 <br>
 
